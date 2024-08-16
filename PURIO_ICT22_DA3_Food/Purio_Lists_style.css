@@ -1,0 +1,38 @@
+body{
+    background-image: url(Sushi\ backg.jpg);
+}
+code {
+    font-family: Consolas,"courier new";
+    color: rgb(255, 255, 255);
+    background-color: #636363;
+    font-size: 105%;
+  }
+.whole{
+    margin: auto;
+    max-width: 800px;
+    border: 2px solid white;
+    background-color: #242021;
+    padding-bottom: 20px;
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.icon{
+    display: block;
+    margin: auto;
+    padding-left: 43%;
+}
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.letterh{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+ul{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 100%;
+}
